@@ -6,7 +6,7 @@ The **Сhoicer** is supposed to be flexible so that you can easily change it for
 
 ### Installation and using
 
-**Сhoicer** uses reprint and colorama to play animations in the console(if you don't need animation, just don't install).
+**Сhoicer** uses ```reprint``` and ```colorama``` to play animations in the console(if you don't need animation, just don't install).
 ```
 pip install colorama
 pip install reprint
