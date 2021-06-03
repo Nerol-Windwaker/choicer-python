@@ -1,4 +1,4 @@
-#Choicer - helps you choose what to do if you can't choose yourself.
+# Choicer - helps you choose what to do if you can't choose yourself.
 
 It often happens that there is a list of activities, but you cannot choose what to do! And you spend hours thinking about what to do and what you will lose if you do something else. And so you start to get frustrated, and instead of finally making a choice, you suffer from this uncertainty for weeks. If you do this, then you and I are alike. And because of this, I created **Сhoicer**! **Сhoicer** makes a random selection from your choices. Now you don't have to spend hours to choose what you want to do!
 
