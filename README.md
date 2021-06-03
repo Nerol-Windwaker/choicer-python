@@ -4,7 +4,7 @@ It often happens that there is a list of activities, but you cannot choose what 
 
 The **Сhoicer** is supposed to be flexible so that you can easily change it for yourself.
 
-###Installation and using
+### Installation and using
 
 **Сhoicer** uses reprint and colorama to play animations in the console(if you don't need animation, just don't install).
 ```
@@ -16,9 +16,9 @@ To run **Сhoicer** use
 choicer.py
 ```
 
-###If you want change something:
+### If you want change something:
 
-####Console animation
+#### Console animation
 
 To made own console animation, you need:
 * In ```ui_console/animations``` create directory with your animation name
@@ -32,6 +32,6 @@ To made own console animation, you need:
 * To play animation in **Сhoicer**, open ```config.py```, and write in line
  ```anim_name = 'your animation name'```
 
-####Other
+#### Other
 The functionality to easily add other elements will appear later. If you want to add something, write the code in the appropriate files. For example, if you want to change the function for calculating the random choice, modify ```random_choice.py```
 Don't hold back, show your creativity!
